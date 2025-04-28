@@ -1,4 +1,4 @@
-# Football Analysis Project
+# Football Analysis Project ⚽
 
 ## Introduction
 The goal of this project was to detect and track players, referees, and footballs in a video using YOLO, one of the best AI object detection models available.
@@ -26,7 +26,7 @@ The following modules are used in this project:
 [Trained Yolo v5](https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view)
 
 ## Sample video
-[Sample input video]([https://drive.google.com/file/d/1DC2kCygbBWUKheQ_9cFziCsYVSRw6axK/view](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view))
+[Sample input video](https://drive.google.com/file/d/1t6agoqggZKx6thamUuPAIdN_1zR9v9S_/view)
 
 ## Tools and Libraries Used
 
